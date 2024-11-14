@@ -1,0 +1,14 @@
+C:\Users\2023102060047\source\repos\Tarefa04\Tarefa04\bin\Debug\net8.0\Tarefa04.exe
+C:\Users\2023102060047\source\repos\Tarefa04\Tarefa04\bin\Debug\net8.0\Tarefa04.deps.json
+C:\Users\2023102060047\source\repos\Tarefa04\Tarefa04\bin\Debug\net8.0\Tarefa04.runtimeconfig.json
+C:\Users\2023102060047\source\repos\Tarefa04\Tarefa04\bin\Debug\net8.0\Tarefa04.dll
+C:\Users\2023102060047\source\repos\Tarefa04\Tarefa04\bin\Debug\net8.0\Tarefa04.pdb
+C:\Users\2023102060047\source\repos\Tarefa04\Tarefa04\obj\Debug\net8.0\Tarefa04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2023102060047\source\repos\Tarefa04\Tarefa04\obj\Debug\net8.0\Tarefa04.AssemblyInfoInputs.cache
+C:\Users\2023102060047\source\repos\Tarefa04\Tarefa04\obj\Debug\net8.0\Tarefa04.AssemblyInfo.cs
+C:\Users\2023102060047\source\repos\Tarefa04\Tarefa04\obj\Debug\net8.0\Tarefa04.csproj.CoreCompileInputs.cache
+C:\Users\2023102060047\source\repos\Tarefa04\Tarefa04\obj\Debug\net8.0\Tarefa04.dll
+C:\Users\2023102060047\source\repos\Tarefa04\Tarefa04\obj\Debug\net8.0\refint\Tarefa04.dll
+C:\Users\2023102060047\source\repos\Tarefa04\Tarefa04\obj\Debug\net8.0\Tarefa04.pdb
+C:\Users\2023102060047\source\repos\Tarefa04\Tarefa04\obj\Debug\net8.0\Tarefa04.genruntimeconfig.cache
+C:\Users\2023102060047\source\repos\Tarefa04\Tarefa04\obj\Debug\net8.0\ref\Tarefa04.dll
